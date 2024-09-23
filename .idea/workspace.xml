@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d04950-3a9f-49bf-90f7-0bf3a5e4386a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InheritanceG.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/AccessModifierA.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -40,7 +40,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.EnkapsulasiBKt">
+  <component name="RunManager" selected="Kotlin.AccessModifierAKt">
+    <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccessModifierAKt" />
+      <module name="KonsepOOPdiKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnkapsulasiAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.EnkapsulasiAKt" />
       <module name="KonsepOOPdiKotlin" />
@@ -50,13 +57,6 @@
     </configuration>
     <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.EnkapsulasiBKt" />
-      <module name="KonsepOOPdiKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.PersonCKt" />
       <module name="KonsepOOPdiKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AccessModifierAKt" />
         <item itemvalue="Kotlin.EnkapsulasiBKt" />
         <item itemvalue="Kotlin.EnkapsulasiAKt" />
         <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.PersonEKt" />
-        <item itemvalue="Kotlin.PersonCKt" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,35 @@
       <option name="project" value="LOCAL" />
       <updated>1727107930633</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add">
+      <created>1727107975237</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727107975237</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add">
+      <created>1727108011861</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727108011861</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add">
+      <created>1727108044391</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727108044391</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add">
+      <created>1727108133228</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727108133228</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
